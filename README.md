@@ -36,7 +36,7 @@ plaintext
 
 ## Requirements
 - Python 3.x
-- 
+
 ## Screenshots
 
 ![1](https://github.com/user-attachments/assets/3ae3846d-819c-4fc5-ab0d-34de72bffabe)
