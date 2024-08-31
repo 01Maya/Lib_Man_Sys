@@ -34,14 +34,15 @@ plaintext
 4. Return Book
 5. Exit
 
-
+## Requirements
+- Python 3.x
+- 
 ## Screenshots
 
 ![1](https://github.com/user-attachments/assets/3ae3846d-819c-4fc5-ab0d-34de72bffabe)
 ![2](https://github.com/user-attachments/assets/2c0bda87-bde4-4a5f-a0d7-b8d3668b47f0)
  
-## Requirements
-- Python 3.x
+
 ## Feedback
 
 If you have any feedback, please reach out to us at patelmaya9812@gmail.com
