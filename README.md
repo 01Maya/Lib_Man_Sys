@@ -1,6 +1,5 @@
 
-**LIBRARY MANAGEMENT SYSTEM**
-
+## LIBRARY MANAGEMENT SYSTEM
 A simple command-line application to manage books in a library. Users can add books, view available books, borrow books, and return books.
 
 
